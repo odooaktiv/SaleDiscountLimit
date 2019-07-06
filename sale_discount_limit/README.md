@@ -13,3 +13,8 @@ Module Configuration Guideline
 
 1. Here We Can Set the Configuration of Sale Order Discount based on Sales Group:
     Sales -> Configuration -> Sales Discount Limit
+
+Version 12.0.1.0.1
+==================
+
+Changed the widget in the Tree view.

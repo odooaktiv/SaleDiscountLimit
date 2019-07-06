@@ -7,7 +7,7 @@
         <field name="arch" type="xml">
             <tree string="Sales Discount Limit" editable="bottom">
                 <field name="discount"/>
-                <field name="group_id" required="1" widget="selection"/>
+                <field name="group_id" required="1" options="{'no_create': True, 'no_edit': True}"/>
             </tree>
         </field>
     </record>
